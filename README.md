@@ -2,19 +2,21 @@
 <h3 align="center">Full-Stack Web Developer | Laravel | React | Shopify | WordPress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%26+PHP;React+Developer;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%26+PHP;React+Developer;Building+Real+Projects&width=500&height=50" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (2024) – UCET Bikaner
-* 💻 Working as a Full-Stack Developer at OnePixel Soft Pvt. Ltd.
-* ⚙️ Mainly working with Laravel, PHP, and React
-* 🌐 Experience with WordPress & Shopify
+- 🎓 B.Tech CSE (2024) – UCET Bikaner  
+- 💻 Working as a Full-Stack Developer at OnePixel Soft Pvt. Ltd.  
+- ⚙️ Mainly working with Laravel, PHP, and React  
+- 🌐 Experience with WordPress & Shopify  
 
 I like building practical web applications and improving things step by step while working on real projects.
+
+💡 I focus on building real-world projects and continuously improving my development skills.
 
 ---
 
