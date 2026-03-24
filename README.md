@@ -12,7 +12,7 @@
 * 🎓 B.Tech CSE (2024) – UCET Bikaner
 * 💻 Working as a Full-Stack Developer at OnePixel Soft Pvt. Ltd.
 * ⚙️ Mainly working with Laravel, PHP, and React
-* 🌐 Experience with WordPress & Shopify projects
+* 🌐 Experience with WordPress & Shopify
 
 I like building practical web applications and improving things step by step while working on real projects.
 
@@ -20,17 +20,25 @@ I like building practical web applications and improving things step by step whi
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,wordpress,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,wordpress,bootstrap" />
 </p>
+
+---
+
+## 📌 Pinned Projects
+
+* 🛒 E-commerce Website (Laravel)
+* 📊 Admin Dashboard (React)
+* 🌐 Portfolio Website
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajay-saini253&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-saini253&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay-saini253&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-saini253&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -38,17 +46,21 @@ I like building practical web applications and improving things step by step whi
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-saini253&theme=radical" />
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay-saini253&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-saini253&theme=radical" />
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajay-saini253&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
-<a href="https://linkedin.com/in/ajaysaini253">LinkedIn</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ajaysaini253">LinkedIn</a>
 </p>
